@@ -1,1 +1,1 @@
-# Cats-vs-Dogs-Classification-using-ConvNN-
+# Cats vs Dogs Classification using ConvNN
